@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: mx.tec.lab.UnderstandingAssertsApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.903 s <<< FAILURE! - in mx.tec.lab.UnderstandingAssertsApplicationTests
+whenCheckingExceptionMessage_thenEqual  Time elapsed: 0.014 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Operation Not Supported> but was: <Operation Is Not Supported>
+	at mx.tec.lab.UnderstandingAssertsApplicationTests.whenCheckingExceptionMessage_thenEqual(UnderstandingAssertsApplicationTests.java:95)
+
